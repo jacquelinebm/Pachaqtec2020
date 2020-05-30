@@ -2,9 +2,15 @@
 Esta es mi carpeta de trabajos del curso de "Programación Backend"
 ## Contenido
 **Semana 1 Sesión 1**
-Nada
+
+ - Nada
+
 **Semana 1 Sesión 2**
-Configuración de **VScode**
+
+ - Configuración de **VScode**
+
 **Semana 1 Sesión 3**
-Git
+
+ - Git
+
 **Semana 1 Hackaton**
